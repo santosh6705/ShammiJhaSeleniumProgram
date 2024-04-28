@@ -1,0 +1,14 @@
+int package JavaPackage;
+
+public class Inheritance1 {
+	
+	int roll=5;//Global variable
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+
+	}
+
+}

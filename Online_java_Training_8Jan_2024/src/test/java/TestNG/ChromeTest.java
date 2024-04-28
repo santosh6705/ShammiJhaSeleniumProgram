@@ -1,0 +1,22 @@
+package TestNG;
+
+public class ChromeTest {
+
+	public class ChromeTest {
+		WebDriver driver;
+
+		@BeforeTest
+		public void setUp() {
+		WebDriverManager.chromedriver().setup();
+		driver = new ChromeDriver();
+		driver.get("https://www.bstackdemo.com/");
+		driver.manage().window().maximize();
+		}
+
+		@Test(priority = 1)
+		public void testTitle() {
+		System.out.println("The thread ID for te
+
+	}
+
+}

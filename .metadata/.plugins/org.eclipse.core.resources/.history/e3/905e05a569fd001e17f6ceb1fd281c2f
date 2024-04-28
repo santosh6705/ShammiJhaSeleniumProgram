@@ -1,0 +1,13 @@
+package JavaPackage;
+
+public class MethodOveroad4 extends MethodOveroad{3
+	
+	
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stubo
+		
+		add(10,20);
+	}
+
+}

@@ -1,0 +1,12 @@
+package JavaPackage;
+
+public class Inheritance1 {
+	
+	int roll=5;//Global variable
+
+	
+		
+
+	}
+
+

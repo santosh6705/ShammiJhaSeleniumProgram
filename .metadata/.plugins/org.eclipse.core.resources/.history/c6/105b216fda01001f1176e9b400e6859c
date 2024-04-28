@@ -1,0 +1,10 @@
+package JavaPackage;
+
+public class Inheritance9 {
+	
+	public void laugh()
+	{
+		System.out.println("I am laughing");
+	}
+
+}

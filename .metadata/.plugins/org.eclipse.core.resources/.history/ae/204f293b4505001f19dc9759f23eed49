@@ -1,0 +1,14 @@
+package JavaPackage;
+
+public class Typecastingwidening {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int a=5;
+		double d=a;
+		System.out.println(d);
+
+	}
+
+}
